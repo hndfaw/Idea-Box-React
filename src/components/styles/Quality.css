@@ -1,0 +1,35 @@
+.quality-item {
+  padding-left: 20px;
+  cursor: pointer;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: #1f1f3d 1px solid;
+  border-bottom: #1f1f3d 1px solid;
+}
+
+.quality-item:hover {
+  background: #2c2c57;
+  border-left: 6px solid #37376b;
+  padding-left: 14px;
+}
+
+.remove-quality {
+  background: rgb(156, 44, 44);
+  color: transparent;
+  float: right;
+  height: 100%;
+  width: 10px;
+}
+
+.remove-quality:hover {
+  background: rgb(255, 32, 32);
+  width: 80px;
+  transition: 0.2s;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}

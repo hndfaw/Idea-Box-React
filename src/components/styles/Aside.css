@@ -1,0 +1,68 @@
+.aside {
+  width: 400px;
+  height: 100vh;
+  background: #1f1f3d;
+}
+
+.aside-header {
+  font-size: 22px;
+  color: white;
+  padding: 20px;
+}
+
+.filter-star-ideas-container,
+.filter-by-quality-container,
+.add-new-quality-container {
+  border-top: 1px solid rgba(255,255,255, 0.3);
+  border-bottom: 1px solid rgba(255,255,255, 0.3);
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around
+}
+
+.aside-label {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+
+.filter-star-ideas-btn {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #fff;
+  background: #5356a4;
+  height: 35px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 2px;
+  outline-color: #a9aad2;
+  outline-width: 3px;
+}
+
+.filter-by-quality-container {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list-qualities {
+  list-style: none;
+}
+
+.filter-by-quality-label {
+  padding: 20px;
+  font-weight: bold;
+}
+
+.add-new-quality-input {
+  height: 35px;
+  border: 1px solid #1f1f3d;
+  border-radius: 2px;
+}

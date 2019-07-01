@@ -1,0 +1,8 @@
+.ideas {
+  background-color: #eaeaf4;
+	display: flex;
+	flex-wrap: wrap;
+	overflow: scroll;
+  justify-content: flex-start;
+  height: 65vh;
+}

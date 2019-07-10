@@ -1,4 +1,4 @@
-** Idea Box (React)
+**Idea Box (React)**
 
 
 Remove and Add Qualities:

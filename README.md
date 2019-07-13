@@ -19,7 +19,6 @@ Hindreen Fawzi Abdullah
 ### Quick Demo:
 
 ![Idea box demo](https://github.com/hndfaw/Idea-Box-React/blob/master/src/images/idea-box.gif)
-Remove and Add Qualities:
 
 ### Screenshots:
 

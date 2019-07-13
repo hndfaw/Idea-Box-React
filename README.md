@@ -1,6 +1,8 @@
 **Idea Box (React)**
 
 
+
+![Idea box demo](https://github.com/hndfaw/Idea-Box-React/blob/master/src/images/idea-box.gif)
 Remove and Add Qualities:
 ![Desktop layout](https://github.com/hndfaw/Idea-Box-React/blob/master/src/images/Screen%20Shot%202019-07-01%20at%2011.13.07%20AM.png)
 
